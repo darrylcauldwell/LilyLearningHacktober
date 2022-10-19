@@ -1,0 +1,7 @@
+This is a new file I would like to add to repository.
+
+I aim to create this in a new branch called secondFile rather than creating in the main branch.
+
+One this branch is added I will look to merge the secondFile branch into the main branch.
+
+Once I have confired this file is part of the main branch I will look to remove the now redundant secondFile branch.
